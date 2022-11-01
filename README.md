@@ -29,3 +29,7 @@
 jooeun 폴더에 clone했음!
 이제 add commit push 해볼것임
 
+----------------
+
+다시 project 폴더에 들어와서 pull했음
+이제 add commit push하고 복습끝!
